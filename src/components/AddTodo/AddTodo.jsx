@@ -6,7 +6,7 @@ function AddTodo({ onAdd }) {
   const handleChange = (e) => setText(e.target.value);
   const handleSubmit = (e) => {
     e.preventDefault();
-    if (text.trim().length != 0) {
+    if (text.trim().length !== 0) {
       onAdd({ id: uuidv4(), text, status: "active" });
     }
     setText("");
