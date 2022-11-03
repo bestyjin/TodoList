@@ -47,6 +47,7 @@ useEffect(() => {
 <code>
 // 리스트 storage에서 읽어올 때
 function readTodos() {
+  const todos = localStorage.getItem("todos");
   return todos ? JSON.parse(todos) : [];
 }
       </code>
