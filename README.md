@@ -22,8 +22,9 @@
   <br>
   <li>
     <p>할일 삭제</p>
-    <img src="https://user-images.githubusercontent.com/71006256/199648744-e99c5f50-a36b-41a3-8d0e-4f4a90afa116.png" width="340" height="90"/>
+    <img src="https://user-images.githubusercontent.com/71006256/199648744-e99c5f50-a36b-41a3-8d0e-4f4a90afa116.png" width="350" height="80"/>
   </li>
+  <br>
   <li>
     <p>완료시 체크</p>
     <img src="https://user-images.githubusercontent.com/71006256/199648745-5c6775e7-1a6d-4954-b024-2b6302525f41.png" width="350" height="200"/>
