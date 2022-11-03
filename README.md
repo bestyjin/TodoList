@@ -39,7 +39,15 @@
     <p>LocalStorage에 저장</p>
     <pre>
       <code>
-      ㄴ
+// 리스트 storage에 저장할 때
+useEffect(() => {
+  localStorage.setItem("todos", JSON.stringify(todos));
+}, [todos]);
+
+// 리스트 storage에서 읽어올 때
+function readTodos() {
+  return todos ? JSON.parse(todos) : [];
+}
       </code>
     </pre>
   </li>
