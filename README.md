@@ -1,4 +1,4 @@
-# Todo List (React)
+# Todo List (React) <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
 
 <h3>요약</h3>
 <p>해야할 일을 적고 완료하면 체크하여 분리할 수 있는 Todo List (다크모드 포함)</p>
